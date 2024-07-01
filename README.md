@@ -1,2 +1,37 @@
 # x-window-apps
-Source code from "X Window Application Programming" (1992)
+Source code from ["X Window Application Programming" (1992)](https://www.amazon.com/gp/product/1558281800).
+
+The original code provided on floppy is available for download from [here](X-Window-Applications-Programming.img).
+
+This repo is an upgrade of the code from K&R to ANSI89 with some enhancements of my own.
+
+The code is old and I'm prone to mistakes, so I can not guarentee anything here is free of errors.
+
+## Information
+
+![book cover](X-Window-Applications-Programming.jpg "X Window Applications Programming, 2nd Edition")
+
+| __Title__            | X Window Applications Programming, 2nd Edition
+|----------------------|---------------------------------------------------------------|
+| __Author__           | Johnson, Eric F.                                              |
+|----------------------|---------------------------------------------------------------|
+| __ISBN__             | 9781558281806                                                 |
+|----------------------|---------------------------------------------------------------|
+| __Publication Year__ | 1992                                                          |
+|----------------------|---------------------------------------------------------------|
+| __Publisher__        | MIS Press                                                     |
+|----------------------|---------------------------------------------------------------|
+| __Format__           | Hardcover                                                     |
+|----------------------|---------------------------------------------------------------|
+| __Genre__            | Non-Fiction                                                   |
+|----------------------|---------------------------------------------------------------|
+| __Subject__          | Programming                                                   |
+|----------------------|---------------------------------------------------------------|
+| __Description__      | X-Window was early graphical interface designed to be         |
+|                      | portable across many kinds of computers without concern       |
+|                      | with the hardware. The system facilitated the development     |
+|                      | of distributed computing. The book provides example           |
+|                      | programs and tutorials writing programs with X and building   |
+|                      | complete applications. Much of the development of the was     |
+|                      | done at MIT in Project Athena.                                |
+|----------------------|---------------------------------------------------------------|
